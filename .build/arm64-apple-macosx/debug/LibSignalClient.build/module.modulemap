@@ -1,0 +1,4 @@
+module LibSignalClient {
+    header "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/.build/arm64-apple-macosx/debug/LibSignalClient.build/LibSignalClient-Swift.h"
+    requires objc
+}

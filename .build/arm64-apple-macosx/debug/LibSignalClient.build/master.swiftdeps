@@ -1,0 +1,151 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "d0de6fcc6b553c161eaf4908541d360f369ef6e8a348c259946ffa56dd3bcc55"
+build_start_time: [1671055896, 860905170]
+build_end_time: [1671055900, 408375024]
+inputs:
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/Address.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/Aes256GcmSiv.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/Cds2.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/DataStoreInMemory.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/DataStoreProtocols.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/DataStoreUtils.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/DeviceTransfer.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/Error.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/Fingerprint.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/HsmEnclave.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/IdentityKey.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/Kdf.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/NativeHandleOwner.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/PrivateKey.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/Protocol.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/PublicKey.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/SealedSender.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/SealedSenderCertificates.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/Utils.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/messages/CiphertextMessage.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/messages/PlaintextContent.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/messages/PreKeySignalMessage.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/messages/SenderKeyDistributionMessage.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/messages/SenderKeyMessage.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/messages/SignalMessage.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/state/PreKeyBundle.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/state/PreKeyRecord.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/state/SenderKeyRecord.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/state/SessionRecord.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/state/SignedPreKeyRecord.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/AuthCredential.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/AuthCredentialPresentation.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/AuthCredentialResponse.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/AuthCredentialWithPni.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/AuthCredentialWithPniResponse.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ByteArray.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ClientZkAuthOperations.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ClientZkGroupCipher.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ClientZkProfileOperations.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ClientZkReceiptOperations.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ExpiringProfileKeyCredential.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ExpiringProfileKeyCredentialResponse.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/GroupIdentifier.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/GroupMasterKey.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/GroupPublicParams.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/GroupSecretParams.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/NotarySignature.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/PniCredential.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/PniCredentialPresentation.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/PniCredentialRequestContext.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/PniCredentialResponse.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ProfileKey.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ProfileKeyCiphertext.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ProfileKeyCommitment.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ProfileKeyCredential.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ProfileKeyCredentialPresentation.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ProfileKeyCredentialRequest.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ProfileKeyCredentialRequestContext.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ProfileKeyCredentialResponse.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ProfileKeyVersion.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/Randomness.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ReceiptCredential.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ReceiptCredentialPresentation.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ReceiptCredentialRequest.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ReceiptCredentialRequestContext.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ReceiptCredentialResponse.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ReceiptSerial.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ServerPublicParams.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ServerSecretParams.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ServerZkAuthOperations.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ServerZkProfileOperations.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/ServerZkReceiptOperations.swift"
+  : [1666296297, 0]
+  ? "/Users/alexandersobolev/Library/Developer/Xcode/DerivedData/FamilyGoV3-gounwukalrjttweczshcilzjnitr/SourcePackages/checkouts/SwiftSignal/swift/Sources/LibSignalClient/zkgroup/UuidCiphertext.swift"
+  : [1666296297, 0]
