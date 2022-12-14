@@ -24,11 +24,6 @@ let package = Package(
             name: "LibSignalClient",
             dependencies: ["SignalFfi"],
             exclude: ["Logging.m"]
-        ),
-        .testTarget(
-            name: "LibSignalClientTests",
-            dependencies: ["LibSignalClient"],
-            linkerSettings: [.unsafeFlags(["-L\(rustBuildDir)"])]
         )
     ]
 )
